@@ -35,18 +35,3 @@ go,git,github,docker,postgres,mongodb,java,aws,gitlab,mysql
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbalnzls&show_icons=true&count_private=true&theme=radical)
 
-## Recent Activity
-
-Here are some of my latest activities on GitHub:
-- Created [channa](https://github.com/iqbalnzls/channa) - Tool used for converting JSON to vault format
-- Updated the **mockoon-server** repository
-- Starred several interesting projects related to Go
-- Participated in discussions on various issues
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts to share, but stay tuned for updates!
-
-## Connect with Me
-
-{}
