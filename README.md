@@ -10,28 +10,3 @@ I'm a software engineer with a knack for developing efficient and scalable appli
 
 [![My Skills](https://skillicons.dev/icons?i=go,git,github,docker,postgres,mongodb,java,aws,gitlab,mysql&perline=8)](https://skillicons.dev)
 
-## Top Projects
-
-- [**iqbalnzls.github.io**](https://github.com/iqbalnzls/iqbalnzls.github.io) - My personal website. 🌐 
-  Stars: 0 | Language: HTML
-
-- [**mockoon-server**](https://github.com/iqbalnzls/mockoon-server) - A mock server using Mockoon. 🤖 
-  Stars: 0 | Language: Makefile
-
-- [**channa**](https://github.com/iqbalnzls/channa) - Tool used for converting JSON to vault format. 🔧 
-  Stars: 1 | Language: Go
-
-- [**flatten-json**](https://github.com/iqbalnzls/flatten-json) - Utility for flattening JSON objects. 📄 
-  Stars: 0 | Language: Go
-
-- [**Sistem-Informasi-Kemahasiswaan**](https://github.com/iqbalnzls/Sistem-Informasi-Kemahasiswaan) - A simple student information system. 📚 
-  Stars: 0 | Language: JavaScript
-
-## GitHub Stats
-
-🔹 **Public Repositories**: 11 
-🔹 **Followers**: 0 
-🔹 **Following**: 0 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbalnzls&show_icons=true&count_private=true&theme=radical)
-
