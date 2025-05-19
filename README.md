@@ -10,3 +10,10 @@ I'm a software engineer with a knack for developing efficient and scalable appli
 
 [![My Skills](https://skillicons.dev/icons?i=go,git,github,docker,postgres,mongodb,java,aws,gitlab,mysql&perline=8)](https://skillicons.dev)
 
+## GitHub Stats
+
+🔹 **Public Repositories**: 11 
+🔹 **Followers**: 0 
+🔹 **Following**: 0 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbalnzls&show_icons=true&count_private=true&theme=radical)
