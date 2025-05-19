@@ -8,7 +8,7 @@ I'm a software engineer with a knack for developing efficient and scalable appli
 
 ## Skills & Technologies
 
-go,git,github,docker,postgres,mongodb,java,aws,gitlab,mysql
+[![My Skills](https://skillicons.dev/icons?i=go,git,github,docker,postgres,mongodb,java,aws,gitlab,mysql&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
